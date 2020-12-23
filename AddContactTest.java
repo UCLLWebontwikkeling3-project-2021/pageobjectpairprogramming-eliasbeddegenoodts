@@ -11,6 +11,9 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class AddContactTest {
+    /**
+     * @Author Elias Beddegenoodts
+     */
 
     private WebDriver driver;
     private String path = "http://localhost:8080/Project_war_exploded/Controller";

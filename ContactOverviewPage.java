@@ -7,6 +7,9 @@ import org.openqa.selenium.WebElement;
 import java.util.ArrayList;
 
 public class ContactOverviewPage extends Page {
+    /**
+     * @Author Elias Beddegenoodts
+     */
 
     public ContactOverviewPage(WebDriver driver) {
         super(driver);

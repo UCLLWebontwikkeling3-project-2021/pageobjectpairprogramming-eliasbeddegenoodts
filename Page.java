@@ -3,6 +3,9 @@ package domain;
 import org.openqa.selenium.WebDriver;
 
 public abstract class Page {
+    /**
+     * @Author Elias Beddegenoodts
+     */
 
     WebDriver driver;
     String path = "http://localhost:8080/Opdracht1A_war_exploded/Controller";

@@ -6,6 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class AddContactPage extends Page {
+    /**
+     * @Author Elias Beddegenoodts
+     */
 
     @FindBy(id="firstName")
     private WebElement firstNameField;

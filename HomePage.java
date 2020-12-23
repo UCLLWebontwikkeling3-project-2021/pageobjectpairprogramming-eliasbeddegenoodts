@@ -5,6 +5,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends Page {
+    /**
+     * @Author Elias Beddegenoodts
+     */
+
     @FindBy(id="userId")
     private WebElement userIdField;
 
